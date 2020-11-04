@@ -1,0 +1,822 @@
+{
+    "status": {
+        "total": 1,
+        "failed": 0,
+        "successful": 1
+    },
+    "request": {
+        "query": {
+            "query": "MIT License\n\nCopyright (c) 2017 Geofrey Ernest\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+        },
+        "size": 10,
+        "from": 0,
+        "highlight": null,
+        "fields": null,
+        "facets": null,
+        "explain": false,
+        "sort": [
+            "-_score"
+        ],
+        "includeLocations": false,
+        "search_after": null,
+        "search_before": null
+    },
+    "hits": [
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "MIT",
+            "score": 1.7108445981139162,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 23,
+                            "start": 139,
+                            "end": 147,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 29,
+                            "start": 189,
+                            "end": 197,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 34,
+                            "start": 216,
+                            "end": 224,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 56,
+                            "start": 374,
+                            "end": 382,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 64,
+                            "start": 418,
+                            "end": 426,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 98,
+                            "start": 636,
+                            "end": 644,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 100,
+                            "start": 651,
+                            "end": 659,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 165,
+                            "start": 1053,
+                            "end": 1061,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 174,
+                            "start": 1098,
+                            "end": 1106,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "JSON",
+            "score": 1.5259661043004784,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 22,
+                            "start": 127,
+                            "end": 135,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 28,
+                            "start": 177,
+                            "end": 185,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 33,
+                            "start": 204,
+                            "end": 212,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 55,
+                            "start": 362,
+                            "end": 370,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 63,
+                            "start": 406,
+                            "end": 414,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 93,
+                            "start": 593,
+                            "end": 601,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 95,
+                            "start": 608,
+                            "end": 616,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 104,
+                            "start": 656,
+                            "end": 664,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 169,
+                            "start": 1058,
+                            "end": 1066,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 178,
+                            "start": 1103,
+                            "end": 1111,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "MIT-feh",
+            "score": 1.4833785256330234,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 16,
+                            "start": 85,
+                            "end": 93,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 22,
+                            "start": 135,
+                            "end": 143,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 27,
+                            "start": 162,
+                            "end": 170,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 49,
+                            "start": 320,
+                            "end": 328,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 57,
+                            "start": 364,
+                            "end": 372,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 84,
+                            "start": 527,
+                            "end": 535,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 97,
+                            "start": 617,
+                            "end": 625,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 101,
+                            "start": 645,
+                            "end": 653,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 105,
+                            "start": 669,
+                            "end": 677,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 167,
+                            "start": 1050,
+                            "end": 1058,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 176,
+                            "start": 1095,
+                            "end": 1103,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "MIT-0",
+            "score": 1.4805142639650597,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 23,
+                            "start": 141,
+                            "end": 149,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 29,
+                            "start": 191,
+                            "end": 199,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 34,
+                            "start": 218,
+                            "end": 226,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 56,
+                            "start": 376,
+                            "end": 384,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 64,
+                            "start": 420,
+                            "end": 428,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 71,
+                            "start": 457,
+                            "end": 465,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 136,
+                            "start": 859,
+                            "end": 867,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 145,
+                            "start": 904,
+                            "end": 912,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "Xnet",
+            "score": 1.4301379825068403,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 29,
+                            "start": 173,
+                            "end": 181,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 35,
+                            "start": 223,
+                            "end": 231,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 40,
+                            "start": 250,
+                            "end": 258,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 62,
+                            "start": 408,
+                            "end": 416,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 70,
+                            "start": 452,
+                            "end": 460,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 100,
+                            "start": 639,
+                            "end": 647,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 102,
+                            "start": 654,
+                            "end": 662,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 167,
+                            "start": 1056,
+                            "end": 1064,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 176,
+                            "start": 1101,
+                            "end": 1109,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "MITNFA",
+            "score": 1.414345870645142,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 16,
+                            "start": 85,
+                            "end": 93,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 22,
+                            "start": 135,
+                            "end": 143,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 27,
+                            "start": 162,
+                            "end": 170,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 49,
+                            "start": 320,
+                            "end": 328,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 57,
+                            "start": 364,
+                            "end": 372,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 87,
+                            "start": 551,
+                            "end": 559,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 95,
+                            "start": 598,
+                            "end": 606,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 109,
+                            "start": 678,
+                            "end": 686,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 121,
+                            "start": 779,
+                            "end": 787,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 131,
+                            "start": 856,
+                            "end": 864,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 164,
+                            "start": 1074,
+                            "end": 1082,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 229,
+                            "start": 1476,
+                            "end": 1484,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 238,
+                            "start": 1521,
+                            "end": 1529,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "MIT-advertising",
+            "score": 1.37695023459709,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 33,
+                            "start": 205,
+                            "end": 213,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 39,
+                            "start": 255,
+                            "end": 263,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 44,
+                            "start": 282,
+                            "end": 290,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 66,
+                            "start": 440,
+                            "end": 448,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 74,
+                            "start": 484,
+                            "end": 492,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 101,
+                            "start": 647,
+                            "end": 655,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 118,
+                            "start": 782,
+                            "end": 790,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 122,
+                            "start": 810,
+                            "end": 818,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 126,
+                            "start": 834,
+                            "end": 842,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 188,
+                            "start": 1215,
+                            "end": 1223,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 197,
+                            "start": 1260,
+                            "end": 1268,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "X11",
+            "score": 1.3243858871823977,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 23,
+                            "start": 130,
+                            "end": 138,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 29,
+                            "start": 180,
+                            "end": 188,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 34,
+                            "start": 207,
+                            "end": 215,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 56,
+                            "start": 365,
+                            "end": 373,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 64,
+                            "start": 409,
+                            "end": 417,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 94,
+                            "start": 596,
+                            "end": 604,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 96,
+                            "start": 611,
+                            "end": 619,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 159,
+                            "start": 997,
+                            "end": 1005,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 168,
+                            "start": 1042,
+                            "end": 1050,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 199,
+                            "start": 1215,
+                            "end": 1223,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "MIT-enna",
+            "score": 1.272238687430031,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 26,
+                            "start": 161,
+                            "end": 169,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 32,
+                            "start": 211,
+                            "end": 219,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 37,
+                            "start": 238,
+                            "end": 246,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 59,
+                            "start": 396,
+                            "end": 404,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 67,
+                            "start": 440,
+                            "end": 448,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 94,
+                            "start": 603,
+                            "end": 611,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 109,
+                            "start": 710,
+                            "end": 718,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 119,
+                            "start": 759,
+                            "end": 767,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 145,
+                            "start": 961,
+                            "end": 969,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 153,
+                            "start": 1006,
+                            "end": 1014,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 162,
+                            "start": 1060,
+                            "end": 1068,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 170,
+                            "start": 1114,
+                            "end": 1122,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 188,
+                            "start": 1232,
+                            "end": 1240,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 250,
+                            "start": 1613,
+                            "end": 1621,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 259,
+                            "start": 1658,
+                            "end": 1666,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        },
+        {
+            "index": "/Users/g.ernest/.licence.search",
+            "id": "SGI-B-2.0",
+            "score": 1.2316799611289402,
+            "locations": {
+                "licenseText": {
+                    "software": [
+                        {
+                            "pos": 3,
+                            "start": 9,
+                            "end": 17,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 38,
+                            "start": 232,
+                            "end": 240,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 44,
+                            "start": 282,
+                            "end": 290,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 49,
+                            "start": 309,
+                            "end": 317,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 71,
+                            "start": 467,
+                            "end": 475,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 79,
+                            "start": 511,
+                            "end": 519,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 124,
+                            "start": 799,
+                            "end": 807,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 126,
+                            "start": 814,
+                            "end": 822,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 189,
+                            "start": 1206,
+                            "end": 1214,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 198,
+                            "start": 1251,
+                            "end": 1259,
+                            "array_positions": null
+                        },
+                        {
+                            "pos": 229,
+                            "start": 1430,
+                            "end": 1438,
+                            "array_positions": null
+                        }
+                    ]
+                },
+                "name": {
+                    "software": [
+                        {
+                            "pos": 3,
+                            "start": 9,
+                            "end": 17,
+                            "array_positions": null
+                        }
+                    ]
+                }
+            },
+            "sort": [
+                "_score"
+            ]
+        }
+    ],
+    "total_hits": 442,
+    "max_score": 1.7108445981139162,
+    "took": 16769766,
+    "facets": null
+}
