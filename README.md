@@ -13,9 +13,14 @@ go get github.com/gernest/laisense
 Just call it with no arg on the go project with `go.mod`
 
 ```
-laisense
+laisense 
 ```
 
+or  supply the path to the root of your ptoject
+
+```
+laisense /path/to/the/project
+```
 This might take a while running for the first time as, we need to generate search index. Subsequent calls will be faster as the index is created once.
 
 By default the index will be stored in `$HOME/.licence.search` directory. If you want the index to be stored somewhere else (Note you will have to either set env var `$LAISENSE_INDEX_DIR` to point to this new path or specify it every time you invoke the binary with the `--index` flag) pass the `--index` flag.
